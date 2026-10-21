@@ -1,0 +1,1 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android" android:minWidth="220dp" android:minHeight="70dp" android:initialLayout="@layout/widget_volume" android:updatePeriodMillis="0" android:resizeMode="horizontal|vertical" android:widgetCategory="home_screen" android:description="@string/volume_widget_description" />
