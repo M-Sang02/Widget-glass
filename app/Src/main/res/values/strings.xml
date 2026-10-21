@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MS Glass Widgets</string>
+    <string name="volume_widget_description">Điều khiển âm lượng đa phương tiện</string>
+    <string name="media_stage_description">Media Stage • Trình phát nhạc lớn</string>
+    <string name="media_book_description">Media Book • Ảnh bìa và điều khiển</string>
+    <string name="media_wave_description">Media Wave • Thanh nhạc gọn</string>
+</resources>
